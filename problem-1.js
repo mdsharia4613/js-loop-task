@@ -1,3 +1,4 @@
+//  Count Characters in a String
 
 const count = 'Hello';
 let result = 0;
