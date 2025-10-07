@@ -6,5 +6,4 @@ for(let i = text.length -1; i >= 0; i-- ){
 }
 console.log('Reversed string:' ,count)
 
-// Count vowels in a string
 
